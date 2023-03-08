@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+
 # 💫 About Me:
 <br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br><br>
 
