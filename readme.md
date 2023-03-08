@@ -7,13 +7,7 @@
 
 
 # 📊 GitHub Stats:
-<a href="https://github.com/Wiiliam-Austin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wiiliam-Austin&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Wiiliam-Austin/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wiiliam-Austin&repo=convoychat" />
-</a>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wiiliam-Austin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
