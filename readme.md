@@ -12,16 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinghemp&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=codinghemp&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
 
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=codinghemp&column=7&theme=gruvbox&no-frame=true"/>
-</details>
+
   
 
 <p align="left">
@@ -34,9 +26,7 @@
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 
-  
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/codinghemp/codinghemp/output/github-contribution-grid-snake.svg)
+
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
