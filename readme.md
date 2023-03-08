@@ -7,7 +7,7 @@
 
 
 # 📊 GitHub Stats:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codinghemp)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 ## 🏆 GitHub Trophies
