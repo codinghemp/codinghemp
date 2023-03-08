@@ -7,17 +7,49 @@
 
 
 # 📊 GitHub Stats:<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=codinghemp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=codinghemp&theme=radical&show_icons=true&border=e4e2e2" />
-</p>
+   ## &#x1f4c8; My GitHub Stats🎯
+ 
+<h3 align="left">Profile Views: 🧐</h3>
+  
+![Profile views](https://gpvc.arturio.dev/avinash-218)
 
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codinghemp/codinghemp/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codinghemp/codinghemp/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codinghemp/codinghemp/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
+</details>
+
+  
+<details><summary>Trophies</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
+</details>
+  
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
+</p>  
+
+<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
+  
+
+<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
+<div>
+
+  
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
 
 
 ## 🏆 GitHub Trophies
