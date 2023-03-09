@@ -27,11 +27,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
   
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codinghemp&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codinghemp&theme=chartreuse-dark" />
-</p>  
-
 
 
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
